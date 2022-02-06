@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DrawerDemo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_view_header_text">作业帮</string>
+    <string name="text_fragment_title0">工作流程</string>
+    <string name="text_fragment_title1">安全措施助手</string>
+    <string name="text_fragment_title2">一次设备相关</string>
+    <string name="text_fragment_title3">装置调试助手</string>
+    <string name="text_fragment_title4">二次回路助手</string>
+    <string name="text_fragment_title5">设备验收助手</string>
+    <string name="text_fragment_title6">保护更换助手</string>
+    <string name="text_fragment_title7">自动化助手</string>
+    <string name="text_fragment_title8">工作安排记事</string>
+    <string name="text_fragment_title9">图纸审核助手</string>
+    <string name="text_fragment_title10">小知识点</string>
+
+</resources>

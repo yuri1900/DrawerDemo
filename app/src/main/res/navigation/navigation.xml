@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/textFragment1">
+
+    <fragment
+        android:id="@+id/textFragment1"
+        android:name="com.example.drawerdemo.TextFragment1"
+        android:label="@string/text_fragment_title1"
+        tools:layout="@layout/fragment_text1" />
+    <fragment
+        android:id="@+id/textFragment10"
+        android:name="com.example.drawerdemo.TextFragment10"
+        android:label="@string/text_fragment_title10"
+        tools:layout="@layout/fragment_text10" />
+    <fragment
+        android:id="@+id/textFragment2"
+        android:name="com.example.drawerdemo.TextFragment2"
+        android:label="@string/text_fragment_title2"
+        tools:layout="@layout/fragment_text2" />
+    <fragment
+        android:id="@+id/textFragment3"
+        android:name="com.example.drawerdemo.TextFragment3"
+        android:label="@string/text_fragment_title3"
+        tools:layout="@layout/fragment_text3" />
+    <fragment
+        android:id="@+id/textFragment4"
+        android:name="com.example.drawerdemo.TextFragment4"
+        android:label="@string/text_fragment_title4"
+        tools:layout="@layout/fragment_text4" />
+    <fragment
+        android:id="@+id/textFragment5"
+        android:name="com.example.drawerdemo.TextFragment5"
+        android:label="@string/text_fragment_title5"
+        tools:layout="@layout/fragment_text5" />
+    <fragment
+        android:id="@+id/textFragment"
+        android:name="com.example.drawerdemo.TextFragment"
+        android:label="@string/text_fragment_title0"
+        tools:layout="@layout/fragment_text" />
+    <fragment
+        android:id="@+id/textFragment6"
+        android:name="com.example.drawerdemo.TextFragment6"
+        android:label="@string/text_fragment_title6"
+        tools:layout="@layout/fragment_text6" />
+    <fragment
+        android:id="@+id/textFragment7"
+        android:name="com.example.drawerdemo.TextFragment7"
+        android:label="@string/text_fragment_title7"
+        tools:layout="@layout/fragment_text7" />
+    <fragment
+        android:id="@+id/textFragment8"
+        android:name="com.example.drawerdemo.TextFragment8"
+        android:label="@string/text_fragment_title8"
+        tools:layout="@layout/fragment_text8" />
+    <fragment
+        android:id="@+id/textFragment9"
+        android:name="com.example.drawerdemo.TextFragment9"
+        android:label="@string/text_fragment_title9"
+        tools:layout="@layout/fragment_text9" />
+</navigation>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/app_bar_search"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="Search"
+        app:actionViewClass="android.widget.SearchView" />
+    <item
+        android:id="@+id/textFragment0"
+        android:icon="@drawable/ic_baseline_arrow_right_24"
+        android:title="@string/text_fragment_title0" />
+    <item
+        android:id="@+id/textFragment1"
+        android:icon="@drawable/ic_baseline_arrow_right_24"
+        android:title="@string/text_fragment_title1" />
+    <item
+        android:id="@+id/textFragment2"
+        android:icon="@drawable/ic_baseline_arrow_right_24"
+        android:title="@string/text_fragment_title2" />
+    <item
+        android:id="@+id/textFragment3"
+        android:icon="@drawable/ic_baseline_arrow_right_24"
+        android:title="@string/text_fragment_title3" />
+    <item
+        android:id="@+id/textFragment4"
+        android:icon="@drawable/ic_baseline_arrow_right_24"
+        android:title="@string/text_fragment_title4" />
+    <item
+        android:id="@+id/textFragment5"
+        android:icon="@drawable/ic_baseline_arrow_right_24"
+        android:title="@string/text_fragment_title5" />
+    <item
+        android:id="@+id/textFragment6"
+        android:icon="@drawable/ic_baseline_arrow_right_24"
+        android:title="@string/text_fragment_title6" />
+    <item
+        android:id="@+id/textFragment7"
+        android:icon="@drawable/ic_baseline_arrow_right_24"
+        android:title="@string/text_fragment_title7" />
+    <item
+        android:id="@+id/textFragment8"
+        android:icon="@drawable/ic_baseline_arrow_right_24"
+        android:title="@string/text_fragment_title8" />
+    <item
+        android:id="@+id/textFragment9"
+        android:icon="@drawable/ic_baseline_arrow_right_24"
+        android:title="@string/text_fragment_title9" />
+</menu>
